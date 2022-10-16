@@ -1,0 +1,144 @@
+*{
+   margin:0;
+   padding:0;
+}
+body{
+   background-image: url(./img/bg1.jpg);
+
+}
+.container{
+   display:flex;
+   align-items:center;
+   flex-direction:column;
+}
+.header{
+   /* background-color:yellow; */
+
+
+}
+.header h1{
+   text-shadow: 20px 12px #ffffff;
+   font-size: 408px;
+   font-family: fantasy;
+   color: #0e0e0eed;
+}
+
+.body1{
+
+   display:flex;
+   align-items:center;
+   flex-direction:row;
+   /* background-color: aqua; */
+}
+.div1{
+   
+   border-radius: 30px;
+    box-shadow: 10px 8px 17px 4px #00e1ff;
+   margin: 50px;
+   padding:50px;
+   box-shadow: 10px 8px 17px 4px #00e1ff;
+}
+
+.div2{
+   box-shadow: 10px 8px 17px 4px #00e1ff;
+   border-radius: 30px;
+    box-shadow: 10px 8px 17px 4px #00e1ff;
+    margin: 50px;
+    padding:50px;
+}
+.div3{
+   box-shadow: 10px 8px 17px 4px #00e1ff;
+   border-radius: 30px;
+    box-shadow: 10px 8px 17px 4px #00e1ff;
+    margin: 50px;
+    padding:50px;
+}
+
+.body123{
+
+   display:flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: baseline;
+    text-align: center;
+   padding-top: 220px;
+}
+.div11{
+   margin-top: 5px;
+   justify-content: center;
+   align-items: baseline;
+    text-align: center;
+    display: flex;
+    font-style: oblique;
+    color: aqua;
+    font-size: 130px;
+    font-family: fantasy;
+}
+.body123 span{
+   font-size: 46px;
+    color: cornsilk;
+    display: flex;
+    flex-direction:row;
+    
+}
+.div22{
+   justify-content: center;
+   align-items: baseline;
+    text-align: center;
+    display: flex;
+    font-style: oblique;
+    color: aqua;
+    font-size: 270px;
+    font-family: fantasy;
+}
+.body123 span{
+   font-size: 53px;
+    color: cornsilk;
+}
+.div33{
+   justify-content: center;
+   align-items: baseline;
+    text-align: center;
+    display: flex;
+    font-style: oblique;
+    color: aqua;
+    font-size: 270px;
+    font-family: fantasy;
+}
+.body33 span{
+   font-size: 53px;
+    color: cornsilk;
+}
+
+  
+
+.div33{
+   border-radius: 30px;
+    box-shadow: 10px 8px 17px 4px #00e1ff;
+    box-shadow: 10px 8px 17px 4px #00e1ff;
+   margin: 50px;
+   padding:50px;
+}
+.body11{
+   /* margin-top: 195px; */
+}
+.body1 h1{
+   font-family: cursive;
+   font-size: 59px;
+   color: powderblue;
+}
+
+.img{
+   margin: 105px 0 0 507px;
+}
+.img11{
+   height: 553px;
+}
+.footer{
+background-color: beige;
+}
+.footer h1{
+   font-family: cursive;
+    font-size: 59px;
+    color: powderblue;
+}
